@@ -10,6 +10,7 @@ cfreedomc
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.cfreedomc.fun/my-github-repos)
 * [世界，你好！](http://www.cfreedomc.fun/hello-solo)
 
 

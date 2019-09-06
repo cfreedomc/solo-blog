@@ -10,7 +10,7 @@ cfreedomc
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://www.cfreedomc.fun/my-github-repos)
+* [一千行MySQL命令(转)](http://www.cfreedomc.fun/articles/2019/09/06/1567735895302.html)
 * [世界，你好！](http://www.cfreedomc.fun/hello-solo)
 
 
